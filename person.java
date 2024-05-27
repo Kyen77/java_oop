@@ -14,7 +14,7 @@ public class person{
         }
      //Setter
      public void setName(String name) {this.Name = "kyenpia"; }
-     public void setPassword(String password){this.password = "246810";}
+     public void setPassword(String password){this.password = "246810;"}
     
 } 
 class Main{
@@ -25,5 +25,4 @@ class Main{
     }
          
     }
-
-
+}
