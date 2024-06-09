@@ -1,29 +1,11 @@
-public class person{
+  public static void main(String[] args) {System.out.println("Hello world");}
 
-    private String Name;
+    computer hp230(){
+      public class Main {
+    new computer(new RAM(), new processor(), new storage());
 
-    private String Password;
-
-    //Getter
-    public String getName() { 
-        return Name;
-     }
-
-    public String getPassword(){
-            return Password;
-        }
-     //Setter
-     public void setName(String name) {this.Name = "kyenpia"; }
-     public void setPassword(String password){this.password = "246810";}
-    
-} 
-class Main{
-    public static void main (String[]args){
-        Person myObj = new Person();
-        myObj.setPassword("246810");
-        myObj.setName("Samuel"); //set the value of the name variable to Samuel
-    }
-         
+        return
     }
 
+}
 
